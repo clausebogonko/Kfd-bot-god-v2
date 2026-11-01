@@ -1,0 +1,11 @@
+{
+  "name": "kfd-bot-god-v2",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "author": "Clausebogonko640@gmail.com",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
